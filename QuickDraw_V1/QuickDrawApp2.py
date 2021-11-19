@@ -163,5 +163,3 @@ def blend_transparent(face_img, overlay_t_img):
 keras_predict(model, np.zeros((50, 50, 1), dtype=np.uint8))
 if __name__ == '__main__':
     main()
-
-#Hello World
