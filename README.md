@@ -7,3 +7,5 @@ Có 3 file chính trong project.
 - Load data + Trainer sẽ lẽ file mô phỏng ngắn gọn về việc xử lý dữ liệu và traning
 (Tham khảo trực tiếp tại : Demo_autodraw.ipynb - Colaboratory (google.com))
 - File App: mô phỏng lại kết quả
+
+Tham khảo file traning tại đây https://colab.research.google.com/drive/1aSfciE9msnYFWKnUkaFowD0npnLdxkM1#scrollTo=aR2Ws8jiJA3-
