@@ -8,6 +8,6 @@ Có 3 file chính trong project.
 (Tham khảo trực tiếp tại : Demo_autodraw.ipynb - Colaboratory (google.com))
 - File App: mô phỏng lại kết quả
 
-Notebook(https://colab.research.google.com/drive/1aSfciE9msnYFWKnUkaFowD0npnLdxkM1#scrollTo=aR2Ws8jiJA3-)
+[Notebook](https://colab.research.google.com/drive/1aSfciE9msnYFWKnUkaFowD0npnLdxkM1#scrollTo=aR2Ws8jiJA3-)
 
-Watch the video(https://drive.google.com/file/d/18JTq-_9eOeDBeqKbQY0za9Ccrc_XhHQS/view?usp=sharing)
+[Watch the video](https://drive.google.com/file/d/18JTq-_9eOeDBeqKbQY0za9Ccrc_XhHQS/view?usp=sharing)
