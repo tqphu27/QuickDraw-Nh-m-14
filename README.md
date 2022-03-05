@@ -11,8 +11,8 @@
          INPUT: Lớp đầu vào
          CONV: Lớp tích chập
          RELU: Lớp biến đổi thông qua hàm kích hoạt relu để kích hoạt tính phi tuyến
-         POOL: Lớp tổng hợp, thông thường là Max pooling hoặc có thể là Average pooling dùng để giảm chiều của ma                      trận đầu vào.
-         FC: Lớp kết nối hoàn toàn. Thông thường lớp này nằm ở sau cùng và kết nối với các đơn vị đại diện cho nhóm                  phân loại.
+         POOL: Lớp tổng hợp, thông thường là Max pooling hoặc có thể là Average pooling dùng để giảm chiều của ma trận đầu vào.
+         FC: Lớp kết nối hoàn toàn. Thông thường lớp này nằm ở sau cùng và kết nối với các đơn vị đại diện cho nhóm phân loại.
  Quá trình:
    Quá trình chiết xuất đặc trưng: Thông qua các tích chập giữa ma trần đầu vào với bộ lọc để tạo thành các đơn vị trong một lớp mới. Quá trình này có thể diễn ra liên tục ở phần đầu của mạng và thường sử dụng hàm kích hoạt relu
    Quá trình tổng hợp: Các lớp ở về sau quá trình chiết xuất đặc trưng sẽ có kích thước lớn do số đơn vị ở các lớp sau thường tăng tiến theo cấp số nhân. Điều đó làm tăng số lượng hệ số và khối lượng tính toán trong mạng nơ ron.
